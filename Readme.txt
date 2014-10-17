@@ -8,3 +8,5 @@ Create a new branch dev
 
 This is master branch
 
+fastforward
+
