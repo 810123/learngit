@@ -3,10 +3,5 @@ Git is free software under GPL.
 Git has multiple license.
 Git tracks changes.
 
-Create a new branch dev
-
-
-This is master branch
-
-fastforward
+Fixing Bugs.
 
